@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Created by Scott Alzheimer
+using System;
 using System.Collections.Generic;
 using Core;
 

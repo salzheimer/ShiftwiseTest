@@ -1,11 +1,12 @@
-﻿using System;
+﻿//Created by Scott Alzheimer
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
 
 namespace TestsPlayingCard
 {
     [TestClass]
-    public class UnitTest1
+    public class Deck_Tests
     {
         [TestMethod]
         public void Can_Create_Deck()
